@@ -7,5 +7,6 @@
 - メソッド呼び出しは親子のどちらとも呼び出してみてください。
 ## やったこと
 - 判定クラス--カラオケ得点、気温の感じ方
+- 継承処理--karaokeJudgementクラスを継承し、imageJudgementクラスを作成。
 ## 結果
 ![image](https://github.com/kuroninja-tatsurooo/Judge/assets/157494201/eec4026b-6aca-476c-b4b1-531400f0baa6)
