@@ -11,14 +11,14 @@ public class Main {
     int number = 60;
 
     Feeling feeling = new Feeling();
-    String message1 = feeling.Feelings("30℃");
+    String message1 = feeling.feelings("30℃");
 
     Image image = new Image();
     int number1 = 0;
 
 
-    String message = judge.KaraokejudgeNumber(number);
-    String message2 = image.ImageJudgement(number1);
+    String message = judge.karaokejudgeNumber(number);
+    String message2 = image.imageJudgement(number1);
 
     Printer printer = new Printer();
     printer.printmessage(message);

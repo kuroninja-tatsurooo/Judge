@@ -1,5 +1,5 @@
 package igawa.com;
 
 public interface Temperature {
-   String Feelings(String feeling);
+   String feelings(String feeling);
 }

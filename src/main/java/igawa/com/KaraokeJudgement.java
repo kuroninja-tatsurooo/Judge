@@ -1,5 +1,5 @@
 package igawa.com;
 
 public interface KaraokeJudgement {
-  String KaraokejudgeNumber(int number);
+  String karaokejudgeNumber(int number);
 }
