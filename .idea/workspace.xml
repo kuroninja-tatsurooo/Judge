@@ -5,15 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e0b65ae7-09e7-4e99-b8c5-676769873bc8" name="変更" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/igawa/com/Image.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/igawa/com/KaraokeJudgement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/igawa/com/Temperature.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/igawa/com/Judge.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/igawa/com/Judge.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/igawa/com/Judgement.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/igawa/com/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/igawa/com/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/igawa/com/Printer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/igawa/com/Printer.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,9 +27,6 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-  </component>
-  <component name="PerforceDirect.Settings">
-    <option name="CHARSET" value="なし" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 2
